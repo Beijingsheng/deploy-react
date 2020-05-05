@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/deploy-react/static/js/main.8d8d0d36.chunk.js",
+    "main.js.map": "/deploy-react/static/js/main.8d8d0d36.chunk.js.map",
+    "runtime-main.js": "/deploy-react/static/js/runtime-main.7a5dc168.js",
+    "runtime-main.js.map": "/deploy-react/static/js/runtime-main.7a5dc168.js.map",
+    "static/js/2.f08a979c.chunk.js": "/deploy-react/static/js/2.f08a979c.chunk.js",
+    "static/js/2.f08a979c.chunk.js.map": "/deploy-react/static/js/2.f08a979c.chunk.js.map",
+    "index.html": "/deploy-react/index.html",
+    "precache-manifest.b681e83f9634055b22f4902431417a37.js": "/deploy-react/precache-manifest.b681e83f9634055b22f4902431417a37.js",
+    "service-worker.js": "/deploy-react/service-worker.js",
+    "static/js/2.f08a979c.chunk.js.LICENSE.txt": "/deploy-react/static/js/2.f08a979c.chunk.js.LICENSE.txt",
+    "static/media/vball.jpeg": "/deploy-react/static/media/vball.cf183a66.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a5dc168.js",
+    "static/js/2.f08a979c.chunk.js",
+    "static/js/main.8d8d0d36.chunk.js"
+  ]
+}
